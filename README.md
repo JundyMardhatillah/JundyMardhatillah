@@ -15,7 +15,7 @@
 
 [<img align="left" alt="Jundy Mardhatillah | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 
-[<img align="left" alt="Jundy Mardhatillah | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][discord]
+[<img align="left" alt="Jundy Mardhatillah | Discord" width="22px" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />][discord]
 
 [<img align="left" alt="Jundy Mardhatillah | YouTube" width="22px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />][youtube]
 

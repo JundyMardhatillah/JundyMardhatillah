@@ -50,12 +50,10 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>GitHub Stats</summary>
 
-  <img align="left" alt="Jundy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JundyMardhatillah&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="Jundy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JundyMardhatillah&show_icons=true&hide_border=true&theme=dark" />
 
-</details>
 
 [linkedin]: https://www.linkedin.com/in/jundymardhatillah/
 [instagram]: https://www.instagram.com/jnmrdhtllh/

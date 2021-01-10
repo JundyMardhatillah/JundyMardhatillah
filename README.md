@@ -50,7 +50,7 @@
 
 ---
 
-<summary>GitHub Stats</summary>
+### GitHub Stats
 
 <img align="left" alt="Jundy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JundyMardhatillah&show_icons=true&hide_border=true&theme=dark" />
 

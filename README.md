@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Jundy Mardhatillah | LinkedIn" width="26px" src="https://img.icons8.com/fluent/48/000000/linkedin-circled.png" />][linkedin]
+[<img align="left" alt="Jundy Mardhatillah | LinkedIn" width="26px" src="https://img.icons8.com/fluent/50/000000/linkedin.png" />][linkedin]
 
 [<img align="left" alt="Jundy Mardhatillah | Instagram" width="26px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 

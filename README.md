@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Jundy Mardhatillah
 
-## I'm a Web and Mobile Apps Developer
+## I'm a Front-end Web Developer
 
 - I’m currently learning everything 📖
 - Live in Banda Aceh, Indonesia 🌏

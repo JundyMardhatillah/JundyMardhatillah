@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Jundy Mardhatillah
 
-## I'm a Front-End Developer in Germany
+## I'm a Student at Islamic State University Ar-Raniry
 
 - I’m currently learning everything 📖
 - Live in Banda Aceh, Indonesia 🌏

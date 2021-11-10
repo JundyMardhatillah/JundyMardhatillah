@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg">
+https://github.com/arsentieva/arsentieva/raw/main/code.gif?raw=true
 
 <h1>Hi 👋, I'm Jundy Mardhatillah</h1>
 
@@ -73,9 +73,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jundy Mardhatillah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JundyMardhatillah&theme=black-ice&hide-border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
-<p align="right">
-    <a href="https://github.com/JundyMardhatillah/github-readme-stats"><img alt="Jundy Mardhatillah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JundyMardhatillah&show_icons=true&count_private=true&theme=black-ice&hide-border=true&bg_color=0D1117" /></a>
-</p>
+<a href="https://github.com/JundyMardhatillah/github-readme-stats"><img align="left" width="50%" alt="Jundy Mardhatillah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JundyMardhatillah&show_icons=true&count_private=true&theme=radical&hide-border=true&bg_color=0D1117" /></a>
 
 <img align="center" alt="Jundy Mardhatillah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JundyMardhatillah&layout=compact" /></a>
 

@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" height="auto" src="https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg">
+
 ### Hi 👋, I'm Jundy Mardhatillah
 
 ## I'm a Student at Islamic State University Ar-Raniry

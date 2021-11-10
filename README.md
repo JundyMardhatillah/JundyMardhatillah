@@ -74,7 +74,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jundy Mardhatillah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JundyMardhatillah&theme=black-ice&hide-border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
-<a href="https://github.com/JundyMardhatillah/github-readme-stats"><img alt="Jundy Mardhatillah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JundyMardhatillah&show_icons=true&count_private=true&theme=black-ice&hide-border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/JundyMardhatillah/github-readme-stats"><img alt="Jundy Mardhatillah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JundyMardhatillah&show_icons=true&count_private=true&theme=radical&hide-border=true&bg_color=0D1117" /></a>
 
 <a href="https://github.com/JundyMardhatillah/github-readme-stats"><img alt="Jundy Mardhatillah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JundyMardhatillah&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 

@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/arsentieva/arsentieva/raw/main/code.gif">
+<a href="#"><img width="100%" height="auto" src="https://cdn5.vectorstock.com/i/1000x1000/54/64/man-programmer-is-working-on-his-laptop-coding-vector-6865464.jpg">
 
 <h1>Hi 👋, I'm Jundy Mardhatillah</h1>
 
@@ -68,6 +68,8 @@
 <br />
 <br />
 
+## Github Stats   
+ 
 <p align="left">
     <a href="https://github.com/JundyMardhatillah/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jundy Mardhatillah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JundyMardhatillah&theme=black-ice&hide-border=true&stroke=0000&background=060A0CD0"/>

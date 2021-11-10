@@ -27,9 +27,9 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" target="_blank" src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png" />][VisualStudioCode]
 
-[<img align="left" alt="HTML5" width="26px" target="_blank" src="https://img.icons8.com/color/96/000000/html-5.png" />][HTML5]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
 
-[<img align="left" alt="CSS3" width="26px" target="_blank" src="https://img.icons8.com/color/96/000000/css3.png" />][css]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 
 [<img align="left" alt="Sass" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 

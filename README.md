@@ -1,4 +1,4 @@
-https://github.com/arsentieva/arsentieva/raw/main/code.gif?raw=true
+https://github.com/arsentieva/arsentieva/raw/main/code.gif
 
 <h1>Hi 👋, I'm Jundy Mardhatillah</h1>
 
@@ -73,7 +73,5 @@ https://github.com/arsentieva/arsentieva/raw/main/code.gif?raw=true
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jundy Mardhatillah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JundyMardhatillah&theme=black-ice&hide-border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
-<a href="https://github.com/JundyMardhatillah/github-readme-stats"><img align="left" width="50%" alt="Jundy Mardhatillah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JundyMardhatillah&show_icons=true&count_private=true&theme=radical&hide-border=true&bg_color=0D1117" /></a>
-
-<img align="center" alt="Jundy Mardhatillah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JundyMardhatillah&layout=compact" /></a>
+<a href="https://github.com/JundyMardhatillah/github-readme-stats"><img alt="Jundy Mardhatillah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JundyMardhatillah&show_icons=true&count_private=true&theme=radical&hide-border=true&bg_color=0D1117" /></a>
 

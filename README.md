@@ -11,42 +11,41 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Jundy Mardhatillah | LinkedIn" width="26px" src="https://img.icons8.com/fluent/50/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Jundy Mardhatillah" target="_blank" | LinkedIn" width="26px" src="https://img.icons8.com/fluent/50/000000/linkedin.png" />][linkedin]
 
-[<img align="left" alt="Jundy Mardhatillah | Instagram" width="26px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="Jundy Mardhatillah" target="_blank" | Instagram" width="26px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 
-[<img align="left" alt="Jundy Mardhatillah | Twitter" width="26px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="Jundy Mardhatillah" target="_blank" | Twitter" width="26px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 
-[<img align="left" alt="Jundy Mardhatillah | Discord" width="26px" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />][discord]
+[<img align="left" alt="Jundy Mardhatillah" target="_blank" | Discord" width="26px" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />][discord]
 
-[<img align="left" alt="Jundy Mardhatillah | YouTube" width="26px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />][youtube]
+[<img align="left" alt="Jundy Mardhatillah" target="_blank" | YouTube" width="26px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />][youtube]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />][VisualStudioCode]
+[<img align="left" alt="Visual Studio Code" width="26px" target="_blank" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />][VisualStudioCode]
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
+[<img align="left" alt="HTML5" width="26px" target="_blank" src="https://img.icons8.com/color/48/000000/html-5.png" />][HTML5]
 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="CSS3" width="26px" target="_blank" src="https://img.icons8.com/color/48/000000/css3.png" />][css]
 
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
+[<img align="left" alt="Sass" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="React" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vuejs]
+[<img align="left" alt="Gatsby" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vuejs]
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
+[<img align="left" alt="JavaScript" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="JavaScript" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img align="left" alt="Node.js" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/flutter/flutter/master/examples/flutter_view/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />][flutter]
+[<img align="left" alt="GraphQL" width="26px" target="_blank" src="https://raw.githubusercontent.com/flutter/flutter/master/examples/flutter_view/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />][flutter]
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-
+[<img align="left" alt="GitHub" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 [linkedin]: https://www.linkedin.com/in/jundymardhatillah/
 [instagram]: https://www.instagram.com/jnmrdhtllh/

@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://media.istockphoto.com/vectors/coding-experience-and-software-development-vector-id1248507177.jpg">
+<a href="#"><img width="100%" height="auto" src="https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg">
 
 <h1>Hi 👋, I'm Jundy Mardhatillah</h1>
 
@@ -68,12 +68,9 @@
 <br />
 <br />
 
-## Github Stats   
- 
-<p align="left">
-    <a href="https://github.com/JundyMardhatillah/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jundy Mardhatillah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JundyMardhatillah&theme=black-ice&hide-border=true&stroke=0000&background=060A0CD0"/>
-</p>
+## Github Stats
 
-<a href="https://github.com/JundyMardhatillah/github-readme-stats"><img alt="Jundy Mardhatillah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JundyMardhatillah&show_icons=true&count_private=true&theme=radical&hide-border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/JundyMardhatillah/github-readme-streak-stats"><img align="left" width="47%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jundy Mardhatillah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JundyMardhatillah&theme=black-ice&hide-border=true&stroke=0000&background=060A0CD0"/></a>
+
+<a href="https://github.com/JundyMardhatillah/github-readme-stats"><img align="left" width="47%" alt="Jundy Mardhatillah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JundyMardhatillah&show_icons=true&count_private=true&theme=radical&hide-border=true&bg_color=0D1117"/></a>
 

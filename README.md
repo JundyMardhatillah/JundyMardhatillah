@@ -70,7 +70,7 @@
 
 ## Github Stats
 
-<a href="https://github.com/JundyMardhatillah/github-readme-streak-stats"><img align="left" width="52%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jundy Mardhatillah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JundyMardhatillah&theme=black-ice&hide-border=true&stroke=0000&background=060A0CD0"/></a>
+<a href="https://github.com/JundyMardhatillah/github-readme-streak-stats"><img align="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jundy Mardhatillah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JundyMardhatillah&theme=black-ice&hide-border=true&stroke=0000&background=060A0CD0"/></a>
 
-<a href="https://github.com/JundyMardhatillah/github-readme-stats"><img align="left" width="52%" alt="Jundy Mardhatillah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JundyMardhatillah&show_icons=true&count_private=true&theme=radical&hide-border=true&bg_color=0D1117"/></a>
+<a href="https://github.com/JundyMardhatillah/github-readme-stats"><img align="left" width="50%" alt="Jundy Mardhatillah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JundyMardhatillah&show_icons=true&count_private=true&theme=radical&hide-border=true&bg_color=0D1117"/></a>
 

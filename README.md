@@ -1,4 +1,4 @@
-https://cdn5.vectorstock.com/i/1000x1000/54/64/man-programmer-is-working-on-his-laptop-coding-vector-6865464.jpg
+<a href="#"><img width="100%" height="auto" src="https://github.com/arsentieva/arsentieva/raw/main/code.gif">
 
 <h1>Hi 👋, I'm Jundy Mardhatillah</h1>
 

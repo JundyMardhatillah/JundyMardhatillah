@@ -45,14 +45,6 @@
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
-<br />
-<br />
-
-
-## GitHub Stats
-
-<img align="left" alt="Jundy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JundyMardhatillah&show_icons=true&hide_border=true&theme=dark" />
-
 
 [linkedin]: https://www.linkedin.com/in/jundymardhatillah/
 [instagram]: https://www.instagram.com/jnmrdhtllh/
@@ -70,3 +62,14 @@
 [nodejs]: https://nodejs.org/en/
 [flutter]: https://flutter.dev/
 [github]: https://github.com/
+
+
+<br />
+<br />
+
+<p align="center">
+    <a href="https://github.com/JundyMardhatillah/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jundy Mardhatillah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JundyMardhatillah&theme=black-ice&hide-border=true&stroke=0000&background=060A0CD0"/>
+</p>
+
+

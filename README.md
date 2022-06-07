@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg">
+<a href="#"><img width="100%" height="auto" src="">
 
 <h1>Hi 👋, I'm Jundy Mardhatillah</h1>
 

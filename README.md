@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="">
-
 <h1>Hi 👋, I'm Jundy Mardhatillah</h1>
 
 ## I'm a Student at Islamic State University Ar-Raniry

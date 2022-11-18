@@ -2,7 +2,7 @@
 
 - I’m currently learning everything 📖
 - Live in Banda Aceh, Indonesia 🌏
-- 2027 Goals: Become Fullstack Developer 💻
+- 2027 Goals: Data Scientist 💻
 - Fun fact: Love learning languages 😎
 
 ### Connect with me:

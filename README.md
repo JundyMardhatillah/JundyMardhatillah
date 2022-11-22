@@ -29,6 +29,17 @@
 * 🧠 I'm learning Mobile Dev (Flutter) and Game Dev (Unity)
 * 🤝 I'm open to collaborating on Mobile Dev and  Game Dev
 -----------------
+### SOCIALS:
+
+[<img align="left" alt="Jundy Mardhatillah | LinkedIn" width="36px" src="https://img.icons8.com/fluent/50/000000/linkedin.png" />][linkedin]
+
+[<img align="left" alt="Jundy Mardhatillah | Instagram" width="36px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+
+[<img align="left" alt="Jundy Mardhatillah | Twitter" width="36px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+
+[<img align="left" alt="Jundy Mardhatillah | Discord" width="36px" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />][discord]
+
+[<img align="left" alt="Jundy Mardhatillah | YouTube" width="36px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />][youtube]
 
 ### Skills
 

@@ -6,7 +6,7 @@
 </p>
 
 <!-- About me -->
-<h3>I have been studying code for 3+ years. I started with Game Development using Unity Engine. But I am passionate at frontend Mobile development using Flutter. Currently, I am learning a datascience path using Python and R through 365 Data Science Platform.</h3>
+<h3 text-align: justify;>I have been studying code for 3+ years. I started with Game Development using Unity Engine. But I am passionate at frontend Mobile development using Flutter. Currently, I am learning a datascience path using Python and R through 365 Data Science Platform.</h3>
 
 <!-- Social Badges Section -->
 <p align="left">

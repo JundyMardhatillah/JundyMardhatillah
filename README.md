@@ -1,14 +1,14 @@
 <!-- Headers -->
 # 🏄‍♂️ Jundy Mardhatillah
-
 <p align="left">
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AC5F7&width=435&lines=Full-stack+flutter+app+developer;3%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 Software Developer
+-----------------
 <!-- About me -->
-I have been studying code for 3+ years. I started with Game Development using Unity Engine. But I am passionate at frontend Mobile development using Flutter. Currently, I am learning a datascience path using Python and R through 365 Data Science Platform.
+<h2>I have been studying code for 3+ years. I started with Game Development using Unity Engine. But I am passionate at frontend Mobile development using Flutter. Currently, I am learning a datascience path using Python and R through 365 Data Science Platform.</h2>
 
 <!-- Social Badges Section -->
 <p align="left">

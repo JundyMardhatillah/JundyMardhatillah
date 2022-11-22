@@ -1,75 +1,34 @@
-<h1>Hi 👋, I'm Jundy Mardhatillah</h1>
+<!-- Headers -->
+# 🏄‍♂️ Jundy Mardhatillah
 
-- I’m currently learning everything 📖
-- Live in Banda Aceh, Indonesia 🌏
-- 2027 Goals: Software Developer 💻
-- Fun fact: Love learning languages 😎
+<p align="left">
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AC5F7&width=435&lines=Full-stack+flutter+app+developer;3%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
+-----------------
 
-### Connect with me:
+**'Software Developer'**
+<!-- About me -->
+I have been studying code for 3+ years. I started with Game Development using Unity Engine. But I am passionate at frontend Mobile development using Flutter. Currently, I am learning a datascience path using Python and R through 365 Data Science Platform.
 
-[<img align="left" alt="Jundy Mardhatillah | LinkedIn" width="26px" src="https://img.icons8.com/fluent/50/000000/linkedin.png" />][linkedin]
+<!-- Social Badges Section -->
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCFANvLeJ0GWm5pmJiHZA8vg?sub_confirmation=1">
+    <img alt="YouTube Channel Subscribers" title="Youtube Subscribers" src="https://staging.shields.io/youtube/channel/subscribers/UCFANvLeJ0GWm5pmJiHZA8vg?logo=youtube&style=for-the-badge"></a>
 
-[<img align="left" alt="Jundy Mardhatillah | Instagram" width="26px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+  <a href="https://www.youtube.com/channel/UCFANvLeJ0GWm5pmJiHZA8vg">
+    <img alt="YouTube Channel Views" title="Youtube Views" src="https://staging.shields.io/youtube/channel/views/UCFANvLeJ0GWm5pmJiHZA8vg?logo=Youtube&style=for-the-badge"></a> 
 
-[<img align="left" alt="Jundy Mardhatillah | Twitter" width="26px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+  <a href="https://github.com/JundyMardhatillah?tab=repositories&sort=stargazers">
+    <img alt="GitHub User's stars" title="Total stars on Github" src="https://staging.shields.io/github/stars/jundymardhatillah?logo=Github&style=for-the-badge"></a>
 
-[<img align="left" alt="Jundy Mardhatillah | Discord" width="26px" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />][discord]
+  <a href="https://github.com/JundyMardhatillah?tab=followers">
+    <img alt="GitHub followers" title="Follow me on Github" src="https://staging.shields.io/github/followers/jundymardhatillah?logo=Github&style=for-the-badge"></a>
 
-[<img align="left" alt="Jundy Mardhatillah | YouTube" width="26px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />][youtube]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" target="_blank" src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png" />][VisualStudioCode]
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
-
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-
-[<img align="left" alt="Sass" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-
-[<img align="left" alt="React" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-
-[<img align="left" alt="Gatsby" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vuejs]
-
-[<img align="left" alt="JavaScript" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
-
-[<img align="left" alt="JavaScript" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-
-[<img align="left" alt="Node.js" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-
-[<img align="left" alt="GraphQL" width="26px" target="_blank" src="https://raw.githubusercontent.com/flutter/flutter/master/examples/flutter_view/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />][flutter]
-
-[<img align="left" alt="GitHub" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-
-[linkedin]: https://www.linkedin.com/in/jundymardhatillah/
-[instagram]: https://www.instagram.com/jnmrdhtllh/
-[twitter]: https://twitter.com/JndMrdhtllh_
-[discord]: https://discord.com/channels/797698096129245184/
-[youtube]: https://www.youtube.com/channel/UCfVXlEkRKPJggiHaWVkgUVA
-[VisualStudioCode]: https://code.visualstudio.com/
-[HTML5]: https://www.w3schools.com/html/default.asp
-[css]: https://www.w3schools.com/css/default.asp
-[sass]: https://sass-lang.com/
-[react]: https://reactjs.org/
-[vuejs]: https://vuejs.org/
-[bootstrap]: https://getbootstrap.com/
-[javascript]: https://www.javascript.com/
-[nodejs]: https://nodejs.org/en/
-[flutter]: https://flutter.dev/
-[github]: https://github.com/
-
-<br />
-<br />
-
-## Github Stats
-
-<a href="https://github.com/JundyMardhatillah/github-readme-streak-stats"><img align="left" width="47%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jundy Mardhatillah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JundyMardhatillah&theme=black-ice&hide-border=true&stroke=0000&background=060A0CD0"/></a>
-
-<a href="https://github.com/JundyMardhatillah/github-readme-stats"><img align="left" width="47%" alt="Jundy Mardhatillah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JundyMardhatillah&show_icons=true&count_private=true&theme=radical&hide-border=true&bg_color=0D1117"/></a>
-
-<br />
-
-<a href="https://app.daily.dev/jundy"><img src="https://api.daily.dev/devcards/5c52e779b3e643aca9068706a35f89d2.png?r=o8z" width="400" alt="Jundy Mardhatillah's Dev Card"/></a>
-
+-----------------
+🌍 I’m based in Aceh - Indonesia
+💻 See my portfolio at [jundymardhatillah.github.io](https://jundymardhatillah.github.io/)
+✉️ You can contact me at [jundymardhatillah19@gmail.com](mailto:jundymardhatillah19@gmail.com)
+🧠 I'm learning Mobile Dev (Flutter) and Game Dev (Unity)
+🤝 I'm open to collaborating on Mobile Dev and  Game Dev
+-----------------

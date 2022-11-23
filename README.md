@@ -32,14 +32,15 @@
 ### SOCIALS:
 
 [<img align="left" alt="Jundy Mardhatillah | LinkedIn" width="36px" src="https://img.icons8.com/fluent/50/000000/linkedin.png" />][linkedin]
-
 [<img align="left" alt="Jundy Mardhatillah | Instagram" width="36px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-
 [<img align="left" alt="Jundy Mardhatillah | Twitter" width="36px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-
 [<img align="left" alt="Jundy Mardhatillah | Discord" width="36px" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />][discord]
-
 [<img align="left" alt="Jundy Mardhatillah | YouTube" width="36px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />][youtube]
+[linkedin]: https://www.linkedin.com/in/jundymardhatillah/
+[instagram]: https://www.instagram.com/jnmrdhtllh/
+[twitter]: https://twitter.com/JndMrdhtllh_
+[discord]: https://discord.com/channels/797698096129245184/
+[youtube]: https://www.youtube.com/channel/UCfVXlEkRKPJggiHaWVkgUVA
 
 ### Skills
 

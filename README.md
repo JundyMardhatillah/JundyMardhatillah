@@ -29,22 +29,6 @@
 * 🧠 I'm learning Mobile Dev (Flutter) and Game Dev (Unity)
 * 🤝 I'm open to collaborating on Mobile Dev and  Game Dev
 -----------------
-### SOCIALS:
-
-### SOCIALS:
-
-[<img align="left" alt="Jundy Mardhatillah | LinkedIn" width="26px" src="https://img.icons8.com/fluent/50/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Jundy Mardhatillah | Instagram" width="26px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="Jundy Mardhatillah | Twitter" width="26px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="Jundy Mardhatillah | Discord" width="26px" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />][discord]
-[<img align="left" alt="Jundy Mardhatillah | YouTube" width="26px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />][youtube]
-<br />
-[linkedin]: https://www.linkedin.com/in/jundymardhatillah/
-[instagram]: https://www.instagram.com/jnmrdhtllh/
-[twitter]: https://twitter.com/JndMrdhtllh_
-[discord]: https://discord.com/channels/797698096129245184/
-[youtube]: https://www.youtube.com/channel/UCfVXlEkRKPJggiHaWVkgUVA
-
 ### Skills
 
 <p align="left">
@@ -67,3 +51,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg" width="36" height="36" alt="Appwrite" /></a>
 </p>
+
+## Github Stats
+
+<a href="https://github.com/JundyMardhatillah/github-readme-streak-stats"><img align="left" width="47%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jundy Mardhatillah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JundyMardhatillah&theme=black-ice&hide-border=true&stroke=0000&background=060A0CD0"/></a>
+
+<a href="https://github.com/JundyMardhatillah/github-readme-stats"><img align="left" width="47%" alt="Jundy Mardhatillah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JundyMardhatillah&show_icons=true&count_private=true&theme=radical&hide-border=true&bg_color=0D1117"/></a>

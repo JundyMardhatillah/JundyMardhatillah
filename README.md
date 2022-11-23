@@ -32,8 +32,8 @@
 -----------------
 
 ### 📺 Latest YouTube Videos
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
+<!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
+<!-- END EXAMPLE-YOUTUBE-CARDS -->
 
 <!-- Skills Section -->
 ### Skills

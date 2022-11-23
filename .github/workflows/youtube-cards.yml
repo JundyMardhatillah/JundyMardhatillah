@@ -16,3 +16,4 @@ jobs:
         id: youtube-cards
         with:
           channel_id: UCFANvLeJ0GWm5pmJiHZA8vg
+          youtube_api_key: '${{ secrets.YOUTUBE_API_KEY }}'

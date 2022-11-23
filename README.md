@@ -69,3 +69,5 @@
         <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jundymardhatillah&cover_image=true&theme=default&show_offline=false&background_color=17242b&bar_color=519e73&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
     </td>
 </table>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jundymardhatillah&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)

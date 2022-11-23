@@ -11,7 +11,7 @@
 <!-- Social Badges Section -->
 <p align="left">
   <a href="https://www.youtube.com/channel/UCFANvLeJ0GWm5pmJiHZA8vg?sub_confirmation=1">
-    <img alt="YouTube Channel Subscribers" title="Youtube Subscribers" src="https://staging.shields.io/youtube/channel/subscribers/UCFANvLeJ0GWm5pmJiHZA8vg?logo=youtube&style=for-the-badge"></a>
+    <img alt="YouTube Channel Subscribers" title="Youtube Subscribers" src="https://staging.shields.io/youtube/channel/subscribers/UCFANvLeJ0GWm5pmJiHZA8vg?logo=youtube&style=for-the-badge&color=0891b2&labelColor=1c1917"></a>
 
   <a href="https://www.youtube.com/channel/UCFANvLeJ0GWm5pmJiHZA8vg">
     <img alt="YouTube Channel Views" title="Youtube Views" src="https://staging.shields.io/youtube/channel/views/UCFANvLeJ0GWm5pmJiHZA8vg?logo=Youtube&style=for-the-badge&color=0891b2&labelColor=1c1917"></a> 

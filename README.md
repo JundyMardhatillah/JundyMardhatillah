@@ -6,7 +6,7 @@
 </p>
 
 <!-- About me -->
-<p>I have been studying code for 3+ years. I started with Game Development using Unity Engine. But I am passionate at frontend Mobile development using Flutter. Currently, I am learning a datascience path using Python and R through 365 Data Science Platform.</p>
+<p>I have been studying code for 3+ years. I started with Game Development using Unity Engine. But I am passionate at frontend Mobile development using Flutter. Currently, I am learning a data science path using Python and R through 365 Data Science Platform.</p>
 
 <!-- Social Badges Section -->
 <p align="left">
@@ -57,3 +57,15 @@
 <a href="https://github.com/JundyMardhatillah/github-readme-streak-stats"><img align="left" width="47%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jundy Mardhatillah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JundyMardhatillah&theme=black-ice&hide-border=true&stroke=0000&background=060A0CD0"/></a>
 
 <a href="https://github.com/JundyMardhatillah/github-readme-stats"><img align="left" width="47%" alt="Jundy Mardhatillah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JundyMardhatillah&show_icons=true&count_private=true&theme=radical&hide-border=true&bg_color=0D1117"/></a>
+
+<br>
+<br>
+
+<table>
+    <td>
+        <a href="https://app.daily.dev/jundy"><img src="https://api.daily.dev/devcards/5c52e779b3e643aca9068706a35f89d2.png?r=o8z" width="400" alt="Jundy Mardhatillah's Dev Card"/></a>
+    </td>
+    <td>
+        [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jundymardhatillah&cover_image=true&theme=default&show_offline=false&background_color=17242b&bar_color=519e73&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+    </td>
+</table>

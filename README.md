@@ -14,13 +14,13 @@
     <img alt="YouTube Channel Subscribers" title="Youtube Subscribers" src="https://staging.shields.io/youtube/channel/subscribers/UCFANvLeJ0GWm5pmJiHZA8vg?logo=youtube&style=for-the-badge"></a>
 
   <a href="https://www.youtube.com/channel/UCFANvLeJ0GWm5pmJiHZA8vg">
-    <img alt="YouTube Channel Views" title="Youtube Views" src="https://staging.shields.io/youtube/channel/views/UCFANvLeJ0GWm5pmJiHZA8vg?logo=Youtube&style=for-the-badge"></a> 
+    <img alt="YouTube Channel Views" title="Youtube Views" src="https://staging.shields.io/youtube/channel/views/UCFANvLeJ0GWm5pmJiHZA8vg?logo=Youtube&style=for-the-badge&color=0891b2&labelColor=1c1917"></a> 
 
   <a href="https://github.com/JundyMardhatillah?tab=repositories&sort=stargazers">
-    <img alt="GitHub User's stars" title="Total stars on Github" src="https://staging.shields.io/github/stars/jundymardhatillah?logo=Github&style=for-the-badge"></a>
+    <img alt="GitHub User's stars" title="Total stars on Github" src="https://staging.shields.io/github/stars/jundymardhatillah?logo=Github&style=for-the-badge&color=0891b2&labelColor=1c1917"></a>
 
   <a href="https://github.com/JundyMardhatillah?tab=followers">
-    <img alt="GitHub followers" title="Follow me on Github" src="https://staging.shields.io/github/followers/jundymardhatillah?logo=Github&style=for-the-badge"></a>
+    <img alt="GitHub followers" title="Follow me on Github" src="https://staging.shields.io/github/followers/jundymardhatillah?logo=Github&style=for-the-badge&color=0891b2&labelColor=1c1917"></a>
 
 -----------------
 * 🌍 I’m based in Aceh - Indonesia

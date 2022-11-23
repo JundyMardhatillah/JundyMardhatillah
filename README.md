@@ -31,11 +31,14 @@
 -----------------
 ### SOCIALS:
 
-[<img align="left" alt="Jundy Mardhatillah | LinkedIn" width="36px" src="https://img.icons8.com/fluent/50/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Jundy Mardhatillah | Instagram" width="36px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="Jundy Mardhatillah | Twitter" width="36px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="Jundy Mardhatillah | Discord" width="36px" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />][discord]
-[<img align="left" alt="Jundy Mardhatillah | YouTube" width="36px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />][youtube]
+### SOCIALS:
+
+[<img align="left" alt="Jundy Mardhatillah | LinkedIn" width="26px" src="https://img.icons8.com/fluent/50/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Jundy Mardhatillah | Instagram" width="26px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="Jundy Mardhatillah | Twitter" width="26px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="Jundy Mardhatillah | Discord" width="26px" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />][discord]
+[<img align="left" alt="Jundy Mardhatillah | YouTube" width="26px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />][youtube]
+<br />
 [linkedin]: https://www.linkedin.com/in/jundymardhatillah/
 [instagram]: https://www.instagram.com/jnmrdhtllh/
 [twitter]: https://twitter.com/JndMrdhtllh_

@@ -58,7 +58,11 @@
 ## Github Stats
 <a href="https://github.com/JundyMardhatillah/github-readme-streak-stats"><img align="left" width="47%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jundy Mardhatillah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JundyMardhatillah&theme=black-ice&hide-border=true&stroke=0000&background=060A0CD0"/></a>
 
-<a href="https://github.com/JundyMardhatillah/github-readme-stats"><img align="left" width="47%" alt="Jundy Mardhatillah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JundyMardhatillah&show_icons=true&count_private=true&theme=radical&hide-border=true&bg_color=0D1117"/></a><br><br>
+<a href="https://github.com/JundyMardhatillah/github-readme-stats"><img align="left" width="47%" alt="Jundy Mardhatillah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JundyMardhatillah&show_icons=true&count_private=true&theme=radical&hide-border=true&bg_color=0D1117"/></a>
+
+<br><br>
+<br><br>
+<br><br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jundymardhatillah&cover_image=true&theme=default&show_offline=false&background_color=171e21&bar_color=499265)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi?si=9318c4808f7b45a7)
 

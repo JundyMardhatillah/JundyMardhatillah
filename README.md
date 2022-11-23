@@ -65,7 +65,6 @@
     <td>
         <a href="https://app.daily.dev/jundy"><img src="https://api.daily.dev/devcards/5c52e779b3e643aca9068706a35f89d2.png?r=o8z" width="400" alt="Jundy Mardhatillah's Dev Card"/></a>
     </td>
-    <td>
-        [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jundymardhatillah&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-    </td>
 </table>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jundymardhatillah&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)

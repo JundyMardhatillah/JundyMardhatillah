@@ -31,7 +31,7 @@
 * 🤝 I'm open to collaborating on Mobile Dev and  Game Dev
 -----------------
 
-### 📺 Latest YouTube Videos
+### 🎬 Latest YouTube Videos
 <!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=GNV8N8VXh0A">
   <picture>

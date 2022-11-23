@@ -61,5 +61,3 @@
 <a href="https://github.com/JundyMardhatillah/github-readme-stats"><img align="left" width="47%" alt="Jundy Mardhatillah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JundyMardhatillah&show_icons=true&count_private=true&theme=radical&hide-border=true&bg_color=0D1117"/></a>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jundymardhatillah&cover_image=true&theme=default&show_offline=false&background_color=171e21&bar_color=499265)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi?si=9318c4808f7b45a7)
-
-<a href="https://app.daily.dev/jundy"><img src="https://api.daily.dev/devcards/5c52e779b3e643aca9068706a35f89d2.png?r=o8z" width="400" alt="Jundy Mardhatillah's Dev Card"/></a>

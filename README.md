@@ -33,6 +33,12 @@
 
 ### 🎬 Latest YouTube Videos
 <!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=4fjXnJE4FJo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4fjXnJE4FJo&title=Laravel+CRUD&lang=en&timestamp=1671476812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=2650">
+    <img src="https://ytcards.demolab.com/?id=4fjXnJE4FJo&title=Laravel+CRUD&lang=en&timestamp=1671476812&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250&duration=2650" alt="Laravel CRUD" title="Laravel CRUD">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=4sraAb4irKY">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4sraAb4irKY&title=Flutter+App+SQLite+%28CRUD%29%3A+Create+Block+Code+Explanation&lang=en&timestamp=1670820261&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=185">

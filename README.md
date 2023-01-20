@@ -25,7 +25,6 @@
 <!-- Point -->
 -----------------
 * 🌍 I’m based in Aceh - Indonesia
-* 💻 See my portfolio at [jundymardhatillah.github.io](https://jundymardhatillah.github.io/)
 * ✉️ You can contact me at [jundeveloper92@gmail.com](mailto:jundeveloper92@gmail.com)
 * 🧠 I'm learning Mobile Dev (Flutter) and Game Dev (Unity)
 * 🤝 I'm open to collaborating on Mobile Dev and  Game Dev

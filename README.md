@@ -32,22 +32,10 @@
 
 ### 🎬 Latest YouTube Videos
 <!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=4sraAb4irKY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4sraAb4irKY&title=Flutter+App+SQLite+%28CRUD%29%3A+Create+Block+Code+Explanation&lang=en&timestamp=1670820261&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=185">
-    <img src="https://ytcards.demolab.com/?id=4sraAb4irKY&title=Flutter+App+SQLite+%28CRUD%29%3A+Create+Block+Code+Explanation&lang=en&timestamp=1670820261&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250&duration=185" alt="Flutter App SQLite (CRUD): Create Block Code Explanation" title="Flutter App SQLite (CRUD): Create Block Code Explanation">
-  </picture>
-</a>
 <a href="https://www.youtube.com/watch?v=GNV8N8VXh0A">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GNV8N8VXh0A&title=Open+Journal+System+Installation&lang=en&timestamp=1660204935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=741">
     <img src="https://ytcards.demolab.com/?id=GNV8N8VXh0A&title=Open+Journal+System+Installation&lang=en&timestamp=1660204935&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250&duration=741" alt="Open Journal System Installation" title="Open Journal System Installation">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=1cRq_UmT8kw">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1cRq_UmT8kw&title=Bubble+Sort+Ascending+%7C%7C+Java&lang=en&timestamp=1641128232&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=3998">
-    <img src="https://ytcards.demolab.com/?id=1cRq_UmT8kw&title=Bubble+Sort+Ascending+%7C%7C+Java&lang=en&timestamp=1641128232&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250&duration=3998" alt="Bubble Sort Ascending || Java" title="Bubble Sort Ascending || Java">
   </picture>
 </a>
 <!-- END EXAMPLE-YOUTUBE-CARDS -->

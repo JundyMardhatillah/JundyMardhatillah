@@ -8,20 +8,6 @@
 <!-- About me -->
 <p>I have been practicing programming for over 3 years. I started with Game Development using Unity Engine. I am passionate at Frontend Mobile Development using Flutter. Currently, I am learning a data science path using Python and R through 365 Data Science Platform.</p>
 
-<!-- Social Badges Section -->
-<p align="left">
-  <a href="https://www.youtube.com/channel/UCFANvLeJ0GWm5pmJiHZA8vg?sub_confirmation=1">
-    <img alt="YouTube Channel Subscribers" title="Youtube Subscribers" src="https://staging.shields.io/youtube/channel/subscribers/UCFANvLeJ0GWm5pmJiHZA8vg?logo=youtube&style=for-the-badge&color=0891b2&labelColor=1c1917"></a>
-
-  <a href="https://www.youtube.com/channel/UCFANvLeJ0GWm5pmJiHZA8vg">
-    <img alt="YouTube Channel Views" title="Youtube Views" src="https://staging.shields.io/youtube/channel/views/UCFANvLeJ0GWm5pmJiHZA8vg?logo=Youtube&style=for-the-badge&color=0891b2&labelColor=1c1917"></a> 
-
-  <a href="https://github.com/JundyMardhatillah?tab=repositories&sort=stargazers">
-    <img alt="GitHub User's stars" title="Total stars on Github" src="https://staging.shields.io/github/stars/jundymardhatillah?logo=Github&style=for-the-badge&color=0891b2&labelColor=1c1917"></a>
-
-  <a href="https://github.com/JundyMardhatillah?tab=followers">
-    <img alt="GitHub followers" title="Follow me on Github" src="https://staging.shields.io/github/followers/jundymardhatillah?logo=Github&style=for-the-badge&color=0891b2&labelColor=1c1917"></a>
-
 <!-- Point -->
 -----------------
 * 🌍 I’m based in Aceh - Indonesia

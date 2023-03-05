@@ -4,10 +4,10 @@
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AC5F7&width=435&lines=Full-stack+flutter+app+developer;3%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
-===================================
 
+-----------------
 Software Developer
-------------------
+-----------------
 
 <!-- About me -->
 I've been learning to code for 3 years. I started with Game Development, but have really found a passion for cross platform application development and familiar with Golang.

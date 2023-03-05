@@ -56,7 +56,6 @@ I've been learning to code for 3 years. I started with Game Development, but hav
 ### Socials
 <p align="left"> <!-- LinkedIn --> <a href="https://www.linkedin.com/in/jundy-mardhatillah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <!-- Hashnode --> <a href="https://jundy.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <!-- Instagram --> <a href="http://www.instagram.com/jnmrdhtllh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <!-- Twitter --> <a href="https://www.twitter.com/jnmrdllh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <!-- Twitch --> <a href="https://www.twitch.tv/johnwinn92" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a> <!-- Github --> <a href="https://www.github.com/JundyMardhatillah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <!-- DevTo --> <a href="https://www.dev.to/jundy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <!-- Medium --> <a href="http://www.medium.com/jundymardhatillah92" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
-
 <!-- Spotify -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jundymardhatillah&cover_image=true&theme=default&show_offline=false&background_color=171e21&bar_color=499265)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi?si=9318c4808f7b45a7)
 
@@ -74,6 +73,7 @@ I've been learning to code for 3 years. I started with Game Development, but hav
 
 <a href="http://www.github.com/JundyMardhatillah"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JundyMardhatillah&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<!-- Top Languages -->
 <a href="https://github.com/JundyMardhatillah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JundyMardhatillah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!-- Top Repositories -->

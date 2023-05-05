@@ -10,7 +10,7 @@ on:
       - main
 
 jobs:
-  devcard:
+  codecov:
     runs-on: ubuntu-latest
     steps:
       - name: Upload coverage reports to Codecov

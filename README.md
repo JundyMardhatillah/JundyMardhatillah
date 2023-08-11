@@ -24,20 +24,20 @@ I've been learning to code for 3 years. I started with Game Development, but hav
 <!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=zFie0DG1u8I">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zFie0DG1u8I&title=Flutter+Distributor+App&lang=en&timestamp=1684253989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=210">
-    <img src="https://ytcards.demolab.com/?id=zFie0DG1u8I&title=Flutter+Distributor+App&lang=en&timestamp=1684253989&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250&border_radius=5&duration=210" alt="Flutter Distributor App" title="Flutter Distributor App">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zFie0DG1u8I&title=Flutter+Distributor+App&lang=en&timestamp=1684253989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=210">
+    <img src="https://ytcards.demolab.com/?id=zFie0DG1u8I&title=Flutter+Distributor+App&lang=en&timestamp=1684253989&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=210" alt="Flutter Distributor App" title="Flutter Distributor App">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=A-KRCK-Yohw">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A-KRCK-Yohw&title=Flutter+App+Slicing+UI+%28Demo%29&lang=en&timestamp=1679420958&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=213">
-    <img src="https://ytcards.demolab.com/?id=A-KRCK-Yohw&title=Flutter+App+Slicing+UI+%28Demo%29&lang=en&timestamp=1679420958&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250&border_radius=5&duration=213" alt="Flutter App Slicing UI (Demo)" title="Flutter App Slicing UI (Demo)">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A-KRCK-Yohw&title=Flutter+App+Slicing+UI+%28Demo%29&lang=en&timestamp=1679420958&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=213">
+    <img src="https://ytcards.demolab.com/?id=A-KRCK-Yohw&title=Flutter+App+Slicing+UI+%28Demo%29&lang=en&timestamp=1679420958&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=213" alt="Flutter App Slicing UI (Demo)" title="Flutter App Slicing UI (Demo)">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=GNV8N8VXh0A">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GNV8N8VXh0A&title=Open+Journal+System+Installation&lang=en&timestamp=1660204935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=741">
-    <img src="https://ytcards.demolab.com/?id=GNV8N8VXh0A&title=Open+Journal+System+Installation&lang=en&timestamp=1660204935&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250&border_radius=5&duration=741" alt="Open Journal System Installation" title="Open Journal System Installation">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GNV8N8VXh0A&title=Open+Journal+System+Installation&lang=en&timestamp=1660204935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=741">
+    <img src="https://ytcards.demolab.com/?id=GNV8N8VXh0A&title=Open+Journal+System+Installation&lang=en&timestamp=1660204935&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=741" alt="Open Journal System Installation" title="Open Journal System Installation">
   </picture>
 </a>
 <!-- END EXAMPLE-YOUTUBE-CARDS -->

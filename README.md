@@ -73,6 +73,7 @@ I've been learning to code for 3 years. I started with Game Development, but hav
 
 <!-- Dev Card -->
 <a href="https://app.daily.dev/Jundy"><img src="https://api.daily.dev/devcards/5c52e779b3e643aca9068706a35f89d2.png?r=zoz" width="400" alt="Jundy Mardhatillah's Dev Card"/></a>
+<a href="https://app.daily.dev/jundy"><img src="https://api.daily.dev/devcards/v2/pelLTY8SQ0wO8iu9VXPtX.png?type=default&r=ekc" width="400" height="551" alt="Jundy Mardhatillah's Dev Card"/></a>
 
 <!-- Badges -->
 ### Badges

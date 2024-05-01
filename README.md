@@ -1,5 +1,5 @@
 <!-- Headers -->
-# 🏄‍♂️ Jundy Mardhatillah
+# 🧑‍💻 Jundy Mardhatillah
 <p align="left">
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AC5F7&width=435&lines=Full-stack+flutter+app+developer;3%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
